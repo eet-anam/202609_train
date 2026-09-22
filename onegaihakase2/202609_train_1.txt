@@ -5,6 +5,7 @@ Construct	5.0x18.0x7.0	5.0x18.0x7.0
 Construct	5.0x15.0x16.0	5.0x15.0x16.0	
 Light	spot	spot	
 Light	wide	wide	
+Frame	Wooden_thin	Wooden_thin	
 Frame	Metal_Vertical	Metal_Vertical	
 Frame	Metal_Vertical2	Metal_Vertical2	
 Frame	Metal_Vertical3	Metal_Vertical3	
@@ -12,60 +13,59 @@ Frame	MetalGold	MetalGold
 Frame	WoodenWhite	WoodenWhite	
 Frame	WoodenBlack	WoodenBlack	
 Frame	Wooden	Wooden	
-Frame	Wooden_thin	Wooden_thin	
 Frame	Wooden_thin2	Wooden_thin2	
 Frame	Wooden_Rich	Wooden_Rich	
 Frame	none(caption)	none(caption)	
 3DObject		https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-3d/f1961_bottom.zip	
 Audio	テスト音声(Webから)	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-audio/01.femal.wav	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A1.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A2.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A3.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A4.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A5.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A6.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A7.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A8.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A9.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A10.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A11.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A12.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A13.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A14.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A15.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/A16.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B1.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B2.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B3.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B4.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B5.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B6.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B7.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B8.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B9.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B10.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B11.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B12.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B13.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B14.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B15.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/B16.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C1.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C2.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C3.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C4.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C5.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C6.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C7.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C8.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C9.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C10.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C11.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C12.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C13.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C14.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C15.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C16.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C17.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C18.jpg	
-2DObject		https://eet-anam.github.io/202609_train/onegaihakase2/C19.jpg	
+2DObject	龍源寺間歩の江戸時代の坑道	https://eet-anam.github.io/202609_train/onegaihakase2/A1.jpg	
+2DObject	新切間歩の坑口と史跡標柱	https://eet-anam.github.io/202609_train/onegaihakase2/A2.jpg	
+2DObject	青空の下に続く大森の町並み	https://eet-anam.github.io/202609_train/onegaihakase2/A3.jpg	
+2DObject	商家の帳場と帳箪笥・大黒恵比寿像	https://eet-anam.github.io/202609_train/onegaihakase2/A4.jpg	
+2DObject	町家二階の座敷と床の間の生け花	https://eet-anam.github.io/202609_train/onegaihakase2/A5.jpg	
+2DObject	板塀「駒の足」と町家の外観	https://eet-anam.github.io/202609_train/onegaihakase2/A6.jpg	
+2DObject	サザエの殻の灯り	https://eet-anam.github.io/202609_train/onegaihakase2/A7.jpg	
+2DObject	二階の出窓から望む赤瓦の町並み	https://eet-anam.github.io/202609_train/onegaihakase2/A8.jpg	
+2DObject	レトロなたばこ店のショーケース	https://eet-anam.github.io/202609_train/onegaihakase2/A9.jpg	
+2DObject	町家の台所と食卓の再現展示	https://eet-anam.github.io/202609_train/onegaihakase2/A10.jpg	
+2DObject	鳥居と石灯籠が並ぶ神社の参道	https://eet-anam.github.io/202609_train/onegaihakase2/A11.jpg	
+2DObject	下河原吹屋跡	https://eet-anam.github.io/202609_train/onegaihakase2/A12.jpg	
+2DObject	町家の土間とかまど	https://eet-anam.github.io/202609_train/onegaihakase2/A13.jpg	
+2DObject	龍源寺間歩の坑口	https://eet-anam.github.io/202609_train/onegaihakase2/A14.jpg	
+2DObject	清水谷製錬所跡の石積みとアーチ	https://eet-anam.github.io/202609_train/onegaihakase2/A15.jpg	
+2DObject	清水谷製錬所跡の段状石垣	https://eet-anam.github.io/202609_train/onegaihakase2/A16.jpg	
+2DObject	白壁と太い梁の町家の広間	https://eet-anam.github.io/202609_train/onegaihakase2/B1.jpg	
+2DObject	襖越しに見る二階座敷と出窓	https://eet-anam.github.io/202609_train/onegaihakase2/B2.jpg	
+2DObject	「火の用心」と書かれた木製の防火用具箱	https://eet-anam.github.io/202609_train/onegaihakase2/B3.jpg	
+2DObject	群言堂の外観	https://eet-anam.github.io/202609_train/onegaihakase2/B4.jpg	
+2DObject	板葺き屋根の小屋と竹垣	https://eet-anam.github.io/202609_train/onegaihakase2/B5.jpg	
+2DObject	景観に配慮した茶色の電柱とカーブミラー	https://eet-anam.github.io/202609_train/onegaihakase2/B6.jpg	
+2DObject	木枠で覆われた自動販売機	https://eet-anam.github.io/202609_train/onegaihakase2/B7.jpg	
+2DObject	木製の郵便受け	https://eet-anam.github.io/202609_train/onegaihakase2/B8.jpg	
+2DObject	板張りの建物と木製電柱の街灯	https://eet-anam.github.io/202609_train/onegaihakase2/B9.jpg	
+2DObject	格子戸が続く大森の町並み	https://eet-anam.github.io/202609_train/onegaihakase2/B10.jpg	
+2DObject	木格子で目隠しした室外機とガスボンベ	https://eet-anam.github.io/202609_train/onegaihakase2/B11.jpg	
+2DObject	石見銀山代官所地役人遺宅 三宅家	https://eet-anam.github.io/202609_train/onegaihakase2/B12.jpg	
+2DObject	佐毘売山神社の社殿	https://eet-anam.github.io/202609_train/onegaihakase2/B13.jpg	
+2DObject	黒い板塀の町家	https://eet-anam.github.io/202609_train/onegaihakase2/B14.jpg	
+2DObject	黄土色の土壁と板戸の二階建て町家	https://eet-anam.github.io/202609_train/onegaihakase2/B15.jpg	
+2DObject	赤瓦の町家が並ぶ大森の町並みと散策する人々	https://eet-anam.github.io/202609_train/onegaihakase2/B16.jpg	
+2DObject	龍源寺間歩の平面図と岩石・鉱床の解説板	https://eet-anam.github.io/202609_train/onegaihakase2/C1.jpg	
+2DObject	坑道内の案内板（入口から約160m地点）	https://eet-anam.github.io/202609_train/onegaihakase2/C2.jpg	
+2DObject	甘南備坑の坑口と石段	https://eet-anam.github.io/202609_train/onegaihakase2/C3.jpg	
+2DObject	ひおい坑（鉱脈を追って掘った坑道）	https://eet-anam.github.io/202609_train/onegaihakase2/C4.jpg	
+2DObject	ひおい坑と立入禁止の案内板	https://eet-anam.github.io/202609_train/onegaihakase2/C5.jpg	
+2DObject	山中の岩塊と岩陰	https://eet-anam.github.io/202609_train/onegaihakase2/C6.jpg	
+2DObject	新切間歩の史跡標柱	https://eet-anam.github.io/202609_train/onegaihakase2/C7.jpg	
+2DObject	福神山間歩の坑口と史跡標柱	https://eet-anam.github.io/202609_train/onegaihakase2/C8.jpg	
+2DObject	甘南備坑の坑口へ続く道と標柱	https://eet-anam.github.io/202609_train/onegaihakase2/C9.jpg	
+2DObject	龍源寺間歩の坑道内部	https://eet-anam.github.io/202609_train/onegaihakase2/C10.jpg	
+2DObject	新切間歩の坑口（近景）	https://eet-anam.github.io/202609_train/onegaihakase2/C11.jpg	
+2DObject	清水谷製錬所跡のアーチ状石積み	https://eet-anam.github.io/202609_train/onegaihakase2/C12.jpg	
+2DObject	清水谷製錬所跡の段状遺構の全景	https://eet-anam.github.io/202609_train/onegaihakase2/C13.jpg	
+2DObject	栃畑谷案内図（石見銀山の鉱床断面図）	https://eet-anam.github.io/202609_train/onegaihakase2/C14.jpg	
+2DObject	岩壁に並ぶ二つの坑口	https://eet-anam.github.io/202609_train/onegaihakase2/C15.jpg	
+2DObject	龍源寺間歩の案内板と足場の組まれた坑口	https://eet-anam.github.io/202609_train/onegaihakase2/C16.jpg	
+2DObject	栃畑谷・昆布山谷の解説板	https://eet-anam.github.io/202609_train/onegaihakase2/C17.jpg	
+2DObject	石見銀山に関するレクチャーの様子	https://eet-anam.github.io/202609_train/onegaihakase2/C18.jpg	
+2DObject	岩盤に開いた坑口	https://eet-anam.github.io/202609_train/onegaihakase2/C19.jpg	
