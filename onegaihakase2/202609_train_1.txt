@@ -10,6 +10,7 @@ Frame	Metal_Vertical	Metal_Vertical
 Frame	Metal_Vertical2	Metal_Vertical2	
 Frame	Metal_Vertical3	Metal_Vertical3	
 Frame	MetalGold	MetalGold	
+Frame	Metal	Metal	
 Frame	WoodenWhite	WoodenWhite	
 Frame	WoodenBlack	WoodenBlack	
 Frame	Wooden	Wooden	
