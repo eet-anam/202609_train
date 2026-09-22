@@ -5,13 +5,16 @@ Construct	5.0x18.0x7.0	5.0x18.0x7.0
 Construct	5.0x15.0x16.0	5.0x15.0x16.0	
 Light	spot	spot	
 Light	wide	wide	
-Frame	Metal	Metal	
+Frame	Metal_Vertical	Metal_Vertical	
+Frame	Metal_Vertical2	Metal_Vertical2	
+Frame	Metal_Vertical3	Metal_Vertical3	
 Frame	MetalGold	MetalGold	
 Frame	WoodenWhite	WoodenWhite	
 Frame	WoodenBlack	WoodenBlack	
 Frame	Wooden	Wooden	
 Frame	Wooden_thin	Wooden_thin	
 Frame	Wooden_thin2	Wooden_thin2	
+Frame	Wooden_Rich	Wooden_Rich	
 Frame	none(caption)	none(caption)	
 3DObject		https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-3d/f1961_bottom.zip	
 Audio	テスト音声(Webから)	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-audio/01.femal.wav	
